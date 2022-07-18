@@ -1,1 +1,1 @@
-# Pricing_Table that show aveleble packages in this website tamplate
+# Pricing_Table that shows available packages in this website template.
